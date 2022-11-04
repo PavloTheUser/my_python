@@ -18,3 +18,4 @@
 nat = "ip nat inside source list ACL interface FastEthernet0/1 overload"
 print("hello")
 print("not hello")
+print("not hello")
